@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/posts/2020/07/my-first-post/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/test1/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/test2/</loc>
+    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,20 +67,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/"
                 />
   </url>
   
