@@ -13,6 +13,51 @@
     
     
     <item>
+      <title>Contact</title>
+      <link>https://bastianrohr.github.io/saguru.github.io/contact/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianrohr.github.io/saguru.github.io/contact/</guid>
+      <description>Add some text here.</description>
+    </item>
+    
+    <item>
+      <title>Mon actualité</title>
+      <link>https://bastianrohr.github.io/saguru.github.io/news/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianrohr.github.io/saguru.github.io/news/</guid>
+      <description>Add some text here.</description>
+    </item>
+    
+    <item>
+      <title>Recommandations</title>
+      <link>https://bastianrohr.github.io/saguru.github.io/recommendations/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianrohr.github.io/saguru.github.io/recommendations/</guid>
+      <description>Add some text here.</description>
+    </item>
+    
+    <item>
+      <title>Série Sébastien Bâle</title>
+      <link>https://bastianrohr.github.io/saguru.github.io/bale/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianrohr.github.io/saguru.github.io/bale/</guid>
+      <description>Add some text here.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>https://bastianrohr.github.io/saguru.github.io/about/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bastianrohr.github.io/saguru.github.io/about/</guid>
+      <description>Add some text here.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://bastianrohr.github.io/saguru.github.io/posts/2020/07/my-first-post/</link>
       <pubDate>Tue, 14 Jul 2020 18:04:56 +0200</pubDate>
