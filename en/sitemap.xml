@@ -3,105 +3,105 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/contact/</loc>
+    <loc>https://saguru.net/contact/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/news/</loc>
+    <loc>https://saguru.net/news/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/recommendations/</loc>
+    <loc>https://saguru.net/recommendations/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/bale/</loc>
+    <loc>https://saguru.net/bale/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/about/</loc>
+    <loc>https://saguru.net/about/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/posts/2020/07/my-first-post/</loc>
+    <loc>https://saguru.net/posts/2020/07/my-first-post/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/posts/</loc>
+    <loc>https://saguru.net/posts/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/</loc>
+    <loc>https://saguru.net/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/"
+                href="https://saguru.net/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/"
+                href="https://saguru.net/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/tags/</loc>
+    <loc>https://saguru.net/tags/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/tags/"
+                href="https://saguru.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/tags/"
+                href="https://saguru.net/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/tags/test1/</loc>
+    <loc>https://saguru.net/tags/test1/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/tags/test2/</loc>
+    <loc>https://saguru.net/tags/test2/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/categories/</loc>
+    <loc>https://saguru.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/categories/"
+                href="https://saguru.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/categories/"
+                href="https://saguru.net/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/series/</loc>
+    <loc>https://saguru.net/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/series/"
+                href="https://saguru.net/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/series/"
+                href="https://saguru.net/series/"
                 />
   </url>
   

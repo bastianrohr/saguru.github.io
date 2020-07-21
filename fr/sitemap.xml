@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/fr/categories/</loc>
+    <loc>https://saguru.net/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/categories/"
+                href="https://saguru.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/categories/"
+                href="https://saguru.net/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/fr/</loc>
+    <loc>https://saguru.net/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/"
+                href="https://saguru.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/"
+                href="https://saguru.net/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/fr/series/</loc>
+    <loc>https://saguru.net/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/series/"
+                href="https://saguru.net/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/series/"
+                href="https://saguru.net/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>https://bastianrohr.github.io/saguru.github.io/fr/tags/</loc>
+    <loc>https://saguru.net/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bastianrohr.github.io/saguru.github.io/tags/"
+                href="https://saguru.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://bastianrohr.github.io/saguru.github.io/fr/tags/"
+                href="https://saguru.net/fr/tags/"
                 />
   </url>
   

@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saguru</title>
-    <link>https://bastianrohr.github.io/saguru.github.io/</link>
+    <link>https://saguru.net/</link>
     <description>Recent content on Saguru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 14 Jul 2020 18:04:56 +0200</lastBuildDate>
     
-	<atom:link href="https://bastianrohr.github.io/saguru.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://saguru.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/contact/</link>
+      <link>https://saguru.net/contact/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/contact/</guid>
+      <guid>https://saguru.net/contact/</guid>
       <description>Add some text here.</description>
     </item>
     
     <item>
       <title>Mon actualité</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/news/</link>
+      <link>https://saguru.net/news/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/news/</guid>
+      <guid>https://saguru.net/news/</guid>
       <description>Add some text here.</description>
     </item>
     
     <item>
       <title>Recommandations</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/recommendations/</link>
+      <link>https://saguru.net/recommendations/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/recommendations/</guid>
+      <guid>https://saguru.net/recommendations/</guid>
       <description>Add some text here.</description>
     </item>
     
     <item>
       <title>Série Sébastien Bâle</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/bale/</link>
+      <link>https://saguru.net/bale/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/bale/</guid>
+      <guid>https://saguru.net/bale/</guid>
       <description>Add some text here.</description>
     </item>
     
     <item>
       <title>À propos</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/about/</link>
+      <link>https://saguru.net/about/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/about/</guid>
+      <guid>https://saguru.net/about/</guid>
       <description>Add some text here.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://bastianrohr.github.io/saguru.github.io/posts/2020/07/my-first-post/</link>
+      <link>https://saguru.net/posts/2020/07/my-first-post/</link>
       <pubDate>Tue, 14 Jul 2020 18:04:56 +0200</pubDate>
       
-      <guid>https://bastianrohr.github.io/saguru.github.io/posts/2020/07/my-first-post/</guid>
+      <guid>https://saguru.net/posts/2020/07/my-first-post/</guid>
       <description>TestTestTestTestTestTestTestTestT estTestTestTestTestTestTestTestTestTest TestTestTestTestTestTestT</description>
     </item>
     
