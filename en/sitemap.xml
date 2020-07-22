@@ -28,56 +28,6 @@
   </url>
   
   <url>
-    <loc>https://saguru.net/posts/2020/07/my-first-post/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/posts/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://saguru.net/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://saguru.net/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/tags/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://saguru.net/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://saguru.net/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/tags/test1/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/tags/test2/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saguru.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -92,6 +42,20 @@
   </url>
   
   <url>
+    <loc>https://saguru.net/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://saguru.net/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://saguru.net/"
+                />
+  </url>
+  
+  <url>
     <loc>https://saguru.net/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,6 +66,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://saguru.net/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://saguru.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://saguru.net/tags/"
                 />
   </url>
   
