@@ -10,15 +10,17 @@
         <atom:link href="https://saguru.net/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>My First Post</title>
-            <link>https://saguru.net/posts/2020/07/my-first-post/</link>
+            <title>La beauté du non-dit</title>
+            <link>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</link>
             <pubDate>Tue, 14 Jul 2020 18:04:56 +0200</pubDate>
             
-            <guid>https://saguru.net/posts/2020/07/my-first-post/</guid>
-            <description>TestTestTestTestTestTestTestTestT estTestTestTestTestTestTestTestTestTest TestTestTestTestTestTestT</description>
-            <content type="html"><![CDATA[<p>TestTestTestTestTestTestTestTestT
-estTestTestTestTestTestTestTestTestTest
-TestTestTestTestTestTestT</p>
+            <guid>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</guid>
+            <description>1. Henry de Montherlant Cet homme fut un tel génie qu&amp;rsquo;il m&amp;rsquo;est difficile d&amp;rsquo;écrire à son sujet. Pourquoi ça ne marche pas
+1.1Henry de Montherlant Cet homme fut un tel génie qu&amp;rsquo;il m&amp;rsquo;est difficile d&amp;rsquo;écrire à son sujet. Pourquoi ça ne marche pas</description>
+            <content type="html"><![CDATA[<h2 id="1-henry-de-montherlant">1. Henry de Montherlant</h2>
+<p>Cet homme fut un tel génie qu&rsquo;il m&rsquo;est difficile d&rsquo;écrire à son sujet. Pourquoi ça ne marche pas</p>
+<h3 id="11henry-de-montherlant">1.1Henry de Montherlant</h3>
+<p>Cet homme fut un tel génie qu&rsquo;il m&rsquo;est difficile d&rsquo;écrire à son sujet. Pourquoi ça ne marche pas</p>
 ]]></content>
         </item>
         
