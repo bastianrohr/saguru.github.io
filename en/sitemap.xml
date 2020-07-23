@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://saguru.net/tags/jai-appr%C3%A9ci%C3%A9/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/tags/jai-lu/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/posts/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://saguru.net/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://saguru.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/posts/2020/07/second/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saguru.net/tags/</loc>
+    <lastmod>2020-07-22T18:04:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://saguru.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://saguru.net/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://saguru.net/contact/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
@@ -28,48 +83,8 @@
   </url>
   
   <url>
-    <loc>https://saguru.net/tags/jai-lu/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/posts/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://saguru.net/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://saguru.net/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://saguru.net/tags/</loc>
-    <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://saguru.net/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://saguru.net/tags/"
-                />
   </url>
   
   <url>
