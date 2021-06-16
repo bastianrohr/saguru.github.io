@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://saguru.net/tags/jai-appr%C3%A9ci%C3%A9/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/tags/jai-lu/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/posts/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
     <xhtml:link
@@ -35,14 +26,10 @@
                 hreflang="en"
                 href="https://saguru.net/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/posts/2020/07/second/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/tags/</loc>
     <lastmod>2020-07-22T18:04:56+02:00</lastmod>
     <xhtml:link
@@ -55,39 +42,25 @@
                 hreflang="en"
                 href="https://saguru.net/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/contact/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/news/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/recommendations/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/bale/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/about/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/posts/2020/07/la-beaut%C3%A9-du-non-dit/</loc>
     <lastmod>2020-07-14T18:04:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,9 +72,7 @@
                 hreflang="en"
                 href="https://saguru.net/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://saguru.net/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -114,5 +85,4 @@
                 href="https://saguru.net/series/"
                 />
   </url>
-  
 </urlset>
